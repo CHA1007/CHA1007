@@ -7,21 +7,6 @@
 
 </div>
 
-## 📟 `cha1007@github:~$` whoami
-
-> 一个什么都沾点、什么都想试试的 **好奇心驱动型玩家**。
-> 主业给 Minecraft 写 Mod，副业画像素、搓脚本，偶尔出没于东方 Project 二创现场。
-> 信条：*能自动化的绝不手动，能折腾的绝不闲着。*
-
-```yaml
-# ~/neofetch.yml
-OS:        好奇心驱动 · 杂食型爱好者
-主线任务:   Java · Minecraft Mod 开发
-支线任务:   Python 工具链 · Aseprite 像素画
-兴趣插件:   东方Project · 自动化 · 一切好玩的
-运行状态:   ● 持续折腾中，随时准备开新坑
-```
-
 ## 🧰 `cha1007@github:~$` ls ./skills
 
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,38 +22,7 @@ OS:        好奇心驱动 · 杂食型爱好者
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49.5%" alt="Stats"/> <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49.5%" alt="Commit Languages"/>
 
-## 🔧 `cha1007@github:~$` ls ./projects -lh
-
-```bash
-drwxr-xr-x  TideMaid/             ⛩️  东方女仆 × Tide 钓鱼兼容包 · 女仆捕鱼任务模式
--rw-r--r--  EASY-BARS             🩸  极简 HUD · 血量/护甲/饥饿值一目了然
--rw-r--r--  Spell-Elemental-Mod   🔮  元素法术 Mod
--rw-r--r--  Prismatic-Shield-Mod  🛡️  棱彩护盾 Mod
--rw-r--r--  MOD-Dev-Toolkit       🐍  Python · Mod 开发工具链
--rw-r--r--  Kaleidoscope-Compat   🧩  万花筒兼容层
-```
-
-> 完整的可点卡片在下方 GitHub 原生 **Pinned** 区 ⬇️
-
-## 🐍 `cha1007@github:~$` ./snake.sh
-
-> 一条以我的贡献格子为食的像素贪吃蛇，每天自动刷新。
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHA1007/CHA1007/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/CHA1007/CHA1007/output/github-snake.svg" width="100%" alt="snake eating my contributions"/>
 </picture>
-
----
-
-```console
-cha1007@github:~$ exit
-logout
-Connection to github.com closed.
-```
-
-<div align="center">
-
-**连接会关闭，但探索不会。** 欢迎 Star ⭐ 我折腾的每一个仓库～
-
-</div>
