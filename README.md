@@ -1,0 +1,67 @@
+<img src="./assets/terminal.svg" width="880" alt="CHA1007's terminal"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=CHA1007&label=PROFILE+VIEWS&color=238636&style=for-the-badge)
+![Last Sync](https://img.shields.io/github/last-commit/CHA1007/CHA1007?style=for-the-badge&color=238636&label=LAST+SYNC)
+
+</div>
+
+## 📟 `cha1007@github:~$` whoami
+
+> 一个什么都沾点、什么都想试试的 **好奇心驱动型玩家**。
+> 主业给 Minecraft 写 Mod，副业画像素、搓脚本，偶尔出没于东方 Project 二创现场。
+> 信条：*能自动化的绝不手动，能折腾的绝不闲着。*
+
+```yaml
+# ~/neofetch.yml
+OS:        好奇心驱动 · 杂食型爱好者
+主线任务:   Java · Minecraft Mod 开发
+支线任务:   Python 工具链 · Aseprite 像素画
+兴趣插件:   东方Project · 自动化 · 一切好玩的
+运行状态:   ● 持续折腾中，随时准备开新坑
+```
+
+## 🧰 `cha1007@github:~$` ls ./skills
+
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Minecraft Mod](https://img.shields.io/badge/Minecraft_Mod-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 `cha1007@github:~$` htop
+
+<img src="https://github-readme-stats.vercel.app/api?username=CHA1007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3&include_all_commits=true" width="54%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.demolab.com/?user=CHA1007&hide_border=true&background=0d1117&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=79c0ff&dates=8b949e" width="44%" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHA1007&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=e6edf3&layout=compact&langs_count=6" width="40%" alt="Top Languages"/>
+
+## 🔧 `cha1007@github:~$` ls ./projects
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=TideMaid&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="TideMaid"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=EASY-BARS&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="EASY-BARS"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=MOD-Dev-Toolkit&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="MOD-Dev-Toolkit"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=Spell-Elemental-Mod&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="Spell-Elemental-Mod"/>
+
+## 🐍 `cha1007@github:~$` ./snake.sh
+
+> 一条以我的贡献格子为食的像素贪吃蛇，每天自动刷新。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHA1007/CHA1007/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/CHA1007/CHA1007/output/github-snake.svg" width="100%" alt="snake eating my contributions"/>
+</picture>
+
+---
+
+```console
+cha1007@github:~$ exit
+logout
+Connection to github.com closed.
+```
+
+<div align="center">
+
+**连接会关闭，但探索不会。** 欢迎 Star ⭐ 我折腾的每一个仓库～
+
+</div>
