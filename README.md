@@ -7,16 +7,12 @@
 
 </div>
 
-## 🧰 `cha1007@github:~$` ls ./skills
-
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Minecraft Mod](https://img.shields.io/badge/Minecraft_Mod-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 `cha1007@github:~$` htop
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
