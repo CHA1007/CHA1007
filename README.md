@@ -33,15 +33,22 @@ OS:        好奇心驱动 · 杂食型爱好者
 
 ## 📊 `cha1007@github:~$` htop
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHA1007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3&include_all_commits=true" width="54%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.demolab.com/?user=CHA1007&hide_border=true&background=0d1117&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=79c0ff&dates=8b949e" width="44%" alt="Streak Stats"/>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHA1007&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=e6edf3&layout=compact&langs_count=6" width="40%" alt="Top Languages"/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49.5%" alt="Stats"/> <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49.5%" alt="Commit Languages"/>
 
-## 🔧 `cha1007@github:~$` ls ./projects
+## 🔧 `cha1007@github:~$` ls ./projects -lh
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=TideMaid&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="TideMaid"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=EASY-BARS&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="EASY-BARS"/>
+```bash
+drwxr-xr-x  TideMaid/             ⛩️  东方女仆 × Tide 钓鱼兼容包 · 女仆捕鱼任务模式
+-rw-r--r--  EASY-BARS             🩸  极简 HUD · 血量/护甲/饥饿值一目了然
+-rw-r--r--  Spell-Elemental-Mod   🔮  元素法术 Mod
+-rw-r--r--  Prismatic-Shield-Mod  🛡️  棱彩护盾 Mod
+-rw-r--r--  MOD-Dev-Toolkit       🐍  Python · Mod 开发工具链
+-rw-r--r--  Kaleidoscope-Compat   🧩  万花筒兼容层
+```
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=MOD-Dev-Toolkit&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="MOD-Dev-Toolkit"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHA1007&repo=Spell-Elemental-Mod&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=e6edf3" width="49%" alt="Spell-Elemental-Mod"/>
+> 完整的可点卡片在下方 GitHub 原生 **Pinned** 区 ⬇️
 
 ## 🐍 `cha1007@github:~$` ./snake.sh
 
