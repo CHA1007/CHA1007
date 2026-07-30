@@ -1,5 +1,9 @@
 <img src="./assets/terminal.svg" width="880" alt="CHA1007"/>
 
+<p align="center">
+  <img src="./assets/mc-corner.svg" width="620" alt="Walking creeper · Achievement Get"/>
+</p>
+
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Minecraft Mod](https://img.shields.io/badge/Minecraft_Mod-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
