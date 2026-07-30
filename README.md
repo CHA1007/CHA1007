@@ -1,11 +1,4 @@
-<img src="./assets/terminal.svg" width="880" alt="CHA1007's terminal"/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=CHA1007&label=PROFILE+VIEWS&color=238636&style=for-the-badge)
-![Last Sync](https://img.shields.io/github/last-commit/CHA1007/CHA1007?style=for-the-badge&color=238636&label=LAST+SYNC)
-
-</div>
+<img src="./assets/terminal.svg" width="880" alt="cha1007@github:~"/>
 
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
